@@ -30,7 +30,7 @@ import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
                 "src/test/resources/features/stibo_test.feature"
         },
         tags = {
-                "@testAll"
+                "@testWithExcel"
         },
 
         plugin = {
